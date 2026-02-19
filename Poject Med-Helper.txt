@@ -1,8 +1,9 @@
 Poject: Med-Helper
-System for Old age homes
+System for Old age homes built in java
 objective:
 	1.Help elderly take medicine on time.
 	2.Keep track of doctor visits and therapy.
 	3.Let family check their loved one’s health.
 	4.Help caregivers manage residents easily.
+
 	5.Manage medicine and therapy inventory efficiently.
